@@ -1,0 +1,5 @@
+print("wolfMAn")
+print("kimbo1")
+print("kimbo2")
+print("kimbo3")
+print("kimbo4")
